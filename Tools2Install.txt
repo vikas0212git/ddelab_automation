@@ -1,0 +1,45 @@
+softwares for win0
+Azure Iot explorer
+cmake - cmake.org-3.21.1
+docker desktop
+git bash
+.Net core runtime. - dot.net/core
+.Net core  sdk
+.Net core framework
+.Net core framework sdk 
+.Net core framework multitargetting pack
+ASP .net core shared framework
+Azure cli 
+microsoft visual studio -2015
+Node.js 
+microsoft web deploy
+microsoft windows desktop runtime
+Putty Release- 0.75
+Python- 3.7.8 (64-bit)
+Python- 3.8.6 (64-bit)
+Python-3.9.0 (64-bit)
+Visual studio 2017 enterprise  
+WinSCP -v5.17.10 -winscp.net
+windows subsystem for linux- v5.10.60.1
+VisualGDB- v5.5.101.3850 -visualgdb.com
+USBPcap -v1.5.4.0 -desowin.org/usbpcap
+
+
+Iar embeded work bench for ARM. - iar.com -8.50.1
+Jlink - v698a(32-bit), v750(64-bit)
+LPC Driver installer - 2.0.2
+MCU Xpresso IDE 11.3.1 [Build 5262]-- https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE?tid=vanMCUXPRESSO/IDE
+Microchip Studio-7.0.2542-- https://www.microchip.com/
+MPLAB X IDE v5.50
+MPLAB XC32 compiler -v3.01
+Npcap- v1.31- npcap.org
+Nu-link USB Driver -v1.6
+P&E Device drivers
+Python Launcher 
+STM32 ST-Link Utility -v4.6.0.0- st.com
+STM32 Cube programmer -v2.8.0 
+STMicroelectronics stlink-server- 2.0.2-1
+STMicroelectronics STM32CubeIDE- v1.6.0 -st.com
+Tera Term- v4.105 -ttssh2.osdn.jp
+Termite
+Wireshark 3.4.9 (64-bit) -v3.4.9 -https://www.wireshark.org/
